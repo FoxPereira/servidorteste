@@ -8,4 +8,5 @@ git branch -M main
 git remote add origin https://github.com/FoxPereira/servidorteste.git
 git push -u origin main
 
-inicialmento utilizando o terminal do linux, mas com erro de compatibilidade ao realizar o push
+inicialmente utilizando o terminal do linux, mas com erro de compatibilidade ao realizar o push
+concluído com sucesso ao conseguir instalar o powershell para linux
